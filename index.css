@@ -1,0 +1,57 @@
+body{
+    background-image: linear-gradient(to right, rgb(247, 186, 239), rgb(225, 0, 255));
+}
+
+h1{
+    font-size: 40px;
+    position: relative;
+   
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
+
+hr{
+    position: relative;
+   left: 0%;
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   margin: 0;
+   color: aliceblue;
+
+}
+h2{
+    font-size: 35px;
+    position: relative;
+    left: 0%;
+    margin: 0;
+    color: black;
+    text-decoration: none;
+    border-bottom: 200px;
+    color: aliceblue;
+}
+h2:hover{
+    background-color: rgba(235, 241, 241, 0.792);
+}
+#img{
+    width: 130px;
+    border-radius: 90%;
+    height: 130px;
+}
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
+h4{
+    color: aliceblue;
+}
+.profile{
+    justify-content: center;
+    position: relative;
+    left: 0%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.container{
+    justify-content: center;
+    position: relative;
+    left: 0%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
